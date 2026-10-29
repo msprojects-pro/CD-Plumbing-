@@ -1,0 +1,6 @@
+{
+  "name": "CD Plumbing and Heating",
+  "description": "Lisburn plumbing, heating, and oil boiler services with free quotations and customer-recommended service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
